@@ -564,11 +564,3 @@ We will delete the IAM policies created, as they are no longer applied to any gr
 
 18. Confirm there are no io1 unattached EBS volumes, go to the **EC2 dashboard**, click on **Elastic Block Store**, click **Volumes**. You can sort by the **Created** column to help identify volumes that were not terminated as part of this lab.
 
-## Survey
-Let us know what you thought of this lab and how we can improve the experience for you in the future by completing [this poll](https://amazonmr.au1.qualtrics.com/jfe/form/SV_6G1rmmzxUkIajTo?Session=HOLFEA002). Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits 1, 2 & 3. AWS credits will be sent via email by September 30, 2022.
-
-Note: Only registrants of AWS Innovate Online Conference who complete the surveys will receive a gift code for USD25 in AWS credits via email.
- 
-1. AWS Promotional Credits Terms and conditions apply: https://aws.amazon.com/awscredits/ 
-2. Limited to 1 x USD25 AWS credits per participant.
-3. Participants will be required to provide their business email addresses to receive the gift code for AWS credits.
