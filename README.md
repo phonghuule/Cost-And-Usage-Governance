@@ -90,7 +90,7 @@ NOTE: it is best practice to provide only the minimum access required, the polic
 
 ![Images/AWSPolicy5.png](/Images/AWSPolicy5.png)
 
-6. Click **Next:Tags** and **Next: Review**:
+6. Click **Next**
 
 7. Create the policy with the following details:
     - **Name**: RegionRestrict
@@ -189,7 +189,7 @@ NOTE: it is best practice to provide only the minimum access required, the polic
 
 5. Copy and paste the policy into the console:
 ```
-    {
+ {
         "Version": "2012-10-17",
         "Statement": [
             {
@@ -207,10 +207,10 @@ NOTE: it is best practice to provide only the minimum access required, the polic
                 }
             }
         ]
-    }
+}
 ```
 
-6. Click **Review policy**:
+6. Click **Next**:
 ![Images/AWSFamilyRestrict4.png](/Images/AWSFamilyRestrict4.png)
 
 7. Enter the details:
@@ -399,7 +399,7 @@ NOTE: it is best practice to provide only the minimum access required, the polic
 
 5. Copy and paste the policy into the console:
 ```
-    {
+{
         "Version": "2012-10-17",
         "Statement": [
             {
@@ -414,10 +414,10 @@ NOTE: it is best practice to provide only the minimum access required, the polic
                 }
             }
         ]
-    }
+}
 ```
 
-6. Click on **Review Policy**:
+6. Click on **Next**:
 ![Images/AWSEBSPolicy4.png](/Images/AWSEBSPolicy4.png)
 
 7. Configure the following details:
@@ -561,6 +561,11 @@ We will delete the IAM policies created, as they are no longer applied to any gr
 ![Images/AWSTeardown24.png](/Images/AWSTeardown24.png)
 
 18. Confirm there are no io1 unattached EBS volumes, go to the **EC2 dashboard**, click on **Elastic Block Store**, click **Volumes**. You can sort by the **Created** column to help identify volumes that were not terminated as part of this lab.
+
+## Conclusion
+You've completed the lab and learnt how to implement IAM Policies to control usage.
+This lab is part of the **AWS Well-Architected Labs** which contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices. You can can learn more about the **AWS Well-Architected Labs** [here](https://wellarchitectedlabs.com/) 
+
 
 ## Survey
 Let us know what you thought of this session and how we can improve the presentation experience for you in the future by completing this [event session poll](https://amazonmr.au1.qualtrics.com/jfe/form/SV_1U4cxprfqLngWGy?Session=HOL09). Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits1, 2 & 3. AWS credits will be sent via email by September 29, 2023.
