@@ -564,7 +564,10 @@ We will delete the IAM policies created, as they are no longer applied to any gr
 
 ## Conclusion
 You've completed the lab and learnt how to implement IAM Policies to control usage.
-This lab is part of the **AWS Well-Architected Labs** which contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices. You can can learn more about the **AWS Well-Architected Labs** [here](https://wellarchitectedlabs.com/) 
+
+This lab is part of the **AWS Well-Architected Labs** which contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices. 
+
+You can can learn more about the **AWS Well-Architected Labs** [here](https://wellarchitectedlabs.com/) 
 
 
 ## Survey
