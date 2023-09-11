@@ -568,14 +568,3 @@ You've completed the lab and learnt how to implement IAM Policies to control usa
 This lab is part of the **AWS Well-Architected Labs** which contains documentation and code in the format of hands-on labs to help you learn, measure, and build using architectural best practices. 
 
 You can can learn more about the **AWS Well-Architected Labs** [here](https://wellarchitectedlabs.com/) 
-
-
-## Survey
-Let us know what you thought of this session and how we can improve the presentation experience for you in the future by completing this [event session poll](https://amazonmr.au1.qualtrics.com/jfe/form/SV_1U4cxprfqLngWGy?Session=HOL09). Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits1, 2 & 3. AWS credits will be sent via email by September 29, 2023.
-Note: Only registrants of AWS Innovate Online Conference who complete the surveys will receive a gift code for USD25 in AWS credits via email.
-
-<sup>1</sup>AWS Promotional Credits Terms and conditions apply: https://aws.amazon.com/awscredits/ 
-
-<sup>2</sup>Limited to 1 x USD25 AWS credits per participant.
-
-<sup>3</sup>Participants will be required to provide their business email addresses to receive the gift code for AWS credits.
